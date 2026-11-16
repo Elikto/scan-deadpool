@@ -8,6 +8,7 @@ on:
     paths:
       - '.github/workflows/update-catalog.yml'
       - 'scripts/update_catalog.py'
+      - 'scripts/sync_bnf.py'
       - 'index.html'
       - 'data/merchant-offers.json'
   workflow_dispatch:
@@ -26,13 +27,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Découvrir les notices Deadpool dans le catalogue BnF
+        run: python scripts/sync_bnf.py
       - name: Vérifier les métadonnées et les offres autorisées
         run: python scripts/update_catalog.py
       - name: Publier les changements
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog-status.json
+          git add data/catalog-status.json data/bnf-deadpool.json
           if ! git diff --cached --quiet; then
             git commit -m "Mise à jour quotidienne du catalogue"
             for attempt in 1 2 3 4 5; do
