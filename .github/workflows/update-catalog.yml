@@ -1,7 +1,15 @@
 name: Actualiser le catalogue Deadpool VF
 on:
   schedule:
-    - cron: '23 5 * * *'
+    - cron: '23 22 * * *'
+      timezone: 'Europe/Paris'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-catalog.yml'
+      - 'scripts/update_catalog.py'
+      - 'index.html'
+      - 'data/merchant-offers.json'
   workflow_dispatch:
 permissions:
   contents: write
