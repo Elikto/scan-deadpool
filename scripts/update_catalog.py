@@ -17,7 +17,7 @@ if not match:
     raise SystemExit("Catalogue introuvable dans index.html")
 books = json.loads(match.group(1))
 now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-result = {"checked_at": now, "books": {}, "source": "Open Library + Google Books + offres autorisées"}
+result = {"checked_at": now, "books": {}, "source": "Open Library + Google Books + fiches marchandes structurées + offres autorisées"}
 feeds = ROOT / "data" / "merchant-offers.json"
 provided = json.loads(feeds.read_text(encoding="utf-8")) if feeds.exists() else {}
 def normalized(s):
@@ -86,10 +86,96 @@ def crosscheck(book, isbn):
             continue
     return sources
 
+
+# Sources marchandes: seules les fiches connues et accessibles sont lues.
+# Les moteurs de recherche ne sont pas traités comme des API bibliographiques.
+SOURCE_DOMAINS = {
+    "Panini": ("panini.fr",),
+    "Fnac": ("fnac.com",),
+    "BDfugue": ("bdfugue.com",),
+    "Cultura": ("cultura.com",),
+    "Excalibur Comics": ("excalibur-comics.fr",),
+    "Amazon": ("amazon.fr",),
+    "Bédéthèque": ("bedetheque.com",),
+}
+
+def product_metadata(url):
+    """Extrait seulement les données structurées JSON-LD d'une fiche publique."""
+    from html import unescape
+    from urllib.parse import urlsplit
+    if not isinstance(url, str) or not url.startswith("https://"):
+        return []
+    host = (urlsplit(url).hostname or "").lower()
+    if not any(host == d or host.endswith("." + d) for domains in SOURCE_DOMAINS.values() for d in domains):
+        return []
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; DeadpoolCatalogue/2.0)"})
+        with urllib.request.urlopen(request, timeout=8) as response:
+            if "text/html" not in response.headers.get("Content-Type", ""):
+                return []
+            page = response.read(750000).decode("utf-8", "replace")
+        blocks = re.findall(r'<script[^>]+type=["\\\']application/ld\\+json["\\\'][^>]*>(.*?)</script>', page, re.I | re.S)
+        items = []
+        def walk(value):
+            if isinstance(value, list):
+                for v in value: walk(v)
+            elif isinstance(value, dict):
+                kind = value.get("@type", "")
+                if kind in ("Book", "Product") or isinstance(kind, list) and any(k in ("Book", "Product") for k in kind):
+                    items.append(value)
+                if "@graph" in value: walk(value["@graph"])
+        for block in blocks:
+            try: walk(json.loads(unescape(block)))
+            except (ValueError, TypeError): pass
+        return items
+    except Exception:
+        return []
+
+def merchant_sources(book, isbn):
+    """Valide une fiche par ISBN exact; ne transfère pas un prix sans relevé daté."""
+    urls = [book.get("publisherSource"), book.get("verifiedProductUrl")]
+    sources = []
+    for url in dict.fromkeys(u for u in urls if isinstance(u, str)):
+        for item in product_metadata(url):
+            identifiers = [str(item.get(k, "")) for k in ("isbn", "gtin13", "gtin", "sku")]
+            if isbn not in [re.sub(r"[^0-9X]", "", x) for x in identifiers]:
+                continue
+            title = str(item.get("name") or item.get("title") or "")
+            if "deadpool" not in normalized(title):
+                continue
+            host = urllib.parse.urlsplit(url).hostname or ""
+            sources.append({"name": host, "url": url, "title": title,
+                            "published_date": item.get("datePublished")})
+            break
+    return sources
+
+def discover_isbn(book):
+    """Propose un ISBN candidat sans l'ajouter automatiquement à l'édition."""
+    title = str(book.get("title") or "")
+    if "deadpool" not in normalized(title):
+        return []
+    try:
+        query = urllib.parse.urlencode({"q": "intitle:" + title, "maxResults": 10, "langRestrict": "fr"})
+        data = read_json("https://www.googleapis.com/books/v1/volumes?" + query)
+        matches = []
+        for volume in data.get("items", []):
+            info = volume.get("volumeInfo", {})
+            candidate_title = str(info.get("title") or "")
+            similarity = difflib.SequenceMatcher(None, normalized(title), normalized(candidate_title)).ratio()
+            if similarity < 0.94 or info.get("language") != "fr":
+                continue
+            for identifier in info.get("industryIdentifiers", []):
+                number = re.sub(r"[^0-9X]", "", str(identifier.get("identifier", "")))
+                if valid_isbn(number) and number not in matches:
+                    matches.append(number)
+        return matches[:3]
+    except Exception:
+        return []
+
 allowed = {"Fnac", "Cultura", "BDfugue", "Excalibur Comics", "E.Leclerc", "Amazon"}
 for book in books:
     isbn = re.sub(r"[^0-9X]", "", book.get("isbn") or "")
-    entry = {"isbn": isbn, "cover": None, "offers": [], "bibliography": {"status": "non vérifié", "sources": []}}
+    entry = {"isbn": isbn, "cover": None, "offers": [], "bibliography": {"status": "non vérifié", "sources": [], "isbn_candidates": []}}
     if valid_isbn(isbn):
         url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
         try:
@@ -103,9 +189,12 @@ for book in books:
         entry["cover"] = google_cover(isbn, book.get("title", ""))
         time.sleep(0.2)
     if valid_isbn(isbn):
-        entry["bibliography"]["sources"] = crosscheck(book, isbn)
+        entry["bibliography"]["sources"] = crosscheck(book, isbn) + merchant_sources(book, isbn)
         if entry["bibliography"]["sources"]:
             entry["bibliography"]["status"] = "ISBN et titre concordants"
+    else:
+        entry["bibliography"]["isbn_candidates"] = discover_isbn(book)
+        time.sleep(0.15)
     for offer in provided.get(isbn, []):
         if not isinstance(offer, dict) or offer.get("store") not in allowed:
             continue
