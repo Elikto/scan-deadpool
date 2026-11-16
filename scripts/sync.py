@@ -50,20 +50,6 @@ def openlibrary_cover(isbn):
     except Exception:pass
     return ''
 
-def bnf_cover(isbn):
-    """Service de couvertures BnF par ISBN; n'utiliser que si la réponse est une image."""
-    if not isbn:return ''
-    # L'URL ci-dessous est un candidat, pas une image garantie.
-    url='https://couverture.bnf.fr/api/couverture?isbn='+urllib.parse.quote(isbn)+'&format=jpeg'
-    try:
-        req=urllib.request.Request(url,headers={**HEADERS,'Range':'bytes=0-1023'})
-        with urllib.request.urlopen(req,timeout=12) as response:
-            kind=response.headers.get('Content-Type','')
-            if response.status in (200,206) and kind.startswith('image/'):
-                return url
-    except Exception:pass
-    return ''
-
 def collect():
     found={}
     for start in range(1,402,100):
