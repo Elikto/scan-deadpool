@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T19:14:35+00:00",
+  "checked_at": "2026-11-16T19:17:15+00:00",
   "books": {
     "c0": {
       "isbn": "",
@@ -28,7 +28,7 @@
     },
     "c5": {
       "isbn": "9782809446524",
-      "cover": "https://covers.openlibrary.org/b/isbn/9782809446524-L.jpg",
+      "cover": null,
       "offers": []
     },
     "c6": {
@@ -623,6 +623,56 @@
     },
     "h80": {
       "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-1": {
+      "isbn": "9782809476361",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-2": {
+      "isbn": "9782809476842",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-3": {
+      "isbn": "9782809477184",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-4": {
+      "isbn": "9782809477474",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-5": {
+      "isbn": "9782809477788",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-6": {
+      "isbn": "9782809478112",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-7": {
+      "isbn": "9782809478419",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-8": {
+      "isbn": "9782809478716",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-9": {
+      "isbn": "9782809479027",
+      "cover": null,
+      "offers": []
+    },
+    "vf2019-10": {
+      "isbn": "9782809479331",
       "cover": null,
       "offers": []
     }
