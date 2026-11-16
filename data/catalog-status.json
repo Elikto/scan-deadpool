@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T19:23:43+00:00",
+  "checked_at": "2026-11-16T19:26:23+00:00",
   "books": {
     "c0": {
       "isbn": "",
@@ -673,6 +673,291 @@
     },
     "vf2019-10": {
       "isbn": "9782809479331",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-01": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-02": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-03": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-04": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-05": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-06": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-07": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-08": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-09": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-10": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-11": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-12": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-13": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-14": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-15": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-16": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-17": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-18": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-19": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-20": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-21": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-22": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-23": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-24": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-25": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-26": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-27": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-28": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-29": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-30": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-31": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-32": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-33": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-34": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-35": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-36": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-37": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-38": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-39": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-40": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-41": {
+      "isbn": "9782809478112",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-42": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-43": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-44": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-45": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-46": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-47": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-48": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-49": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-50": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-51": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-52": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-53": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-54": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-55": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-56": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "lecture-57": {
+      "isbn": "",
       "cover": null,
       "offers": []
     }
