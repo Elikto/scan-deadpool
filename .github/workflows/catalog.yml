@@ -1,6 +1,10 @@
 name: Synchroniser les notices bibliographiques
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/sync.py'
+      - '.github/workflows/catalog.yml'
   schedule:
     - cron: '17 4 * * 1'
 permissions:
