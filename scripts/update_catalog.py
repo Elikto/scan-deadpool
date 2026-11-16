@@ -3,6 +3,9 @@
 import json
 import re
 import urllib.request
+import urllib.parse
+import unicodedata
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -16,6 +19,31 @@ now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 result = {"checked_at": now, "books": {}, "source": "ISBN Open Library + offres autorisees"}
 feeds = ROOT / "data" / "merchant-offers.json"
 provided = json.loads(feeds.read_text(encoding="utf-8")) if feeds.exists() else {}
+def normalized(s):
+    s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", s).strip()
+
+def google_cover(isbn, title):
+    """Utilise une image uniquement si Google Books confirme le même ISBN et un titre Deadpool."""
+    params = urllib.parse.urlencode({"q": "isbn:" + isbn, "maxResults": 3, "printType": "books"})
+    url = "https://www.googleapis.com/books/v1/volumes?" + params
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "DeadpoolVF-Catalog/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.load(resp)
+        for item in data.get("items", []):
+            info = item.get("volumeInfo", {})
+            ids = {str(x.get("identifier", "")) for x in info.get("industryIdentifiers", [])}
+            candidate = normalized(info.get("title", "") + " " + info.get("subtitle", ""))
+            if isbn not in ids or "deadpool" not in candidate:
+                continue
+            cover = info.get("imageLinks", {}).get("thumbnail") or info.get("imageLinks", {}).get("smallThumbnail")
+            if cover and cover.startswith(("https://", "http://")):
+                return cover.replace("http://", "https://", 1)
+    except Exception:
+        pass
+    return None
+
 allowed = {"Fnac", "Cultura", "BDfugue", "E.Leclerc", "Amazon"}
 for book in books:
     isbn = re.sub(r"[^0-9X]", "", book.get("isbn") or "")
@@ -29,6 +57,9 @@ for book in books:
                     entry["cover"] = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
         except Exception:
             pass
+    if len(isbn) in (10, 13) and not entry["cover"]:
+        entry["cover"] = google_cover(isbn, book.get("title", ""))
+        time.sleep(0.2)
     for offer in provided.get(isbn, []):
         if not isinstance(offer, dict) or offer.get("store") not in allowed:
             continue
