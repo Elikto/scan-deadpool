@@ -1,0 +1,4530 @@
+{
+  "checked_at": "2026-11-16T20:43:30.197601+00:00",
+  "source": "BnF SRU Dublin Core",
+  "books": [
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "[s.n.]"
+      ],
+      "dates": [],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb468870241",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb468870241"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les guerres très très secrètes / scénario, Cullen Bunn ; dessin, Matteo Lolli, Matteo Buffagni & Jacopo Camagni",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45861945g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45861945g"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Détestable Deadpool : deadpool tue Cable",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections"
+      ],
+      "dates": [],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47280374t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47280374t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Détestable Deadpool : l'univers Marvel tue Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections"
+      ],
+      "dates": [],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47318563c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47318563c"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / [dir. publ. Alain Guerrini]",
+      "isbn": "",
+      "publisher": [
+        "Marvel France (Saint-Laurent-du-Var)",
+        "Marvel Comics - Panini France SAMarvel Comics - Panini France SA (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "1998-2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb36948448m",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb36948448m",
+        "ISSN 12904643"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Marvel France (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2002"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb39021477z",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb39021477z"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : il faut soigner le soldat Wilson / Duane Swierczynski, scénario ; Jason Pearson, dessin... ; Jérémy Manesse, traduction...",
+      "isbn": "9782809417371",
+      "publisher": [
+        "Marvel France (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2011"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb423498474",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb423498474",
+        "ISBN 9782809417371"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool corps / Victor Gischler, scénario ; Rob Liefeld, dessin",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2011"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb42516759v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb42516759v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool corps : le club des cinq / Victor Gischler, scénario ; Rob Liefeld, Whilce Portacio, Philip Bond... [et al.], dessin... ; Jérémy Manesse, traduction...",
+      "isbn": "9782809418835",
+      "publisher": [
+        "Marvel France (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2011"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb42433646r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb42433646r",
+        "ISBN 9782809418835"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool max / scénario, David Lapham ; dessin et couleurs, Kyle Baker",
+      "isbn": "",
+      "publisher": [
+        "Marvel France-Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2012"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb426360345",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb426360345"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool pulp / scénario, Adam Glass & Mike Benson ; dessin, Laurence Campbell ; traduction, Jérémy Manesse...",
+      "isbn": "9782809422313",
+      "publisher": [
+        "Marvel France-Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2012"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb42582009v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb42582009v",
+        "ISBN 9782809422313"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool team-up",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2012"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb42744851v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb42744851v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / High moon studios",
+      "isbn": "",
+      "publisher": [
+        "Activision publishing (Santa Monica (Calif.))",
+        "Coöperatie Activision Blizzard international [diff.] (Schiphol-Rijk (The Netherlands))",
+        "Activision Blizzard France [distrib.] (Levallois-Perret)"
+      ],
+      "dates": [
+        "2013"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "Jeu multimédia",
+        "ressource électronique",
+        "electronic resource"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb43633884b",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb43633884b"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / developed by High moon studios",
+      "isbn": "",
+      "publisher": [
+        "Activision publishing (Santa Monica (Calif.))",
+        "Coöperatie Activision Blizzard international [diff.] (Schiphol-Rijk (The Netherlands))",
+        "Activision Blizzard France [distrib.] (Levallois-Perret)"
+      ],
+      "dates": [
+        "2013"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "Jeu multimédia",
+        "ressource électronique",
+        "electronic resource"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb436338772",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb436338772"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / scénario, Joe Kelly",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2013"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44297527b",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44297527b"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La mort de Deadpool / scénario, Daniel Way ; dessin, Carlo Barberi, Alé Garza, Shawn Crystal... [et al.] ; traduction, Jérémy Manesse...",
+      "isbn": "9782809431780",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2013"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb43629610g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb43629610g",
+        "ISBN 9782809431780"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Cable & Deadpool / scénario, Fabian Nicieza",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44317870t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44317870t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44253988v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44253988v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44254143x",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44254143x"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44284267t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44284267t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les origines / scénario, Fabian Nicieza... Mark Waid ; dessin, Joe Madureira... Ian Churchill, Lee Weeks... [et al.] ; traduction Makma-Ben KG...",
+      "isbn": "9782809442021",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44207521d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44207521d",
+        "ISBN 9782809442021"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : mercenaire provocateur / scénario, Victor Gischler ; dessin, Bong Dazo, Kyle Baker, Rob Liefeld... [et al.] ; traduction, Makma-Ben KG...",
+      "isbn": "9782809440027",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb438697985",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb438697985",
+        "ISBN 9782809440027"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre marvel / scénario, Cullen Bunn ; dessin, Dalibor Talajić ; traduction, Alex Nikolavitch...",
+      "isbn": "9782809444001",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44230299f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44230299f",
+        "ISBN 9782809444001"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool président ! / Gerry Dugan, Brian Posehn ; [dessin de] Tony Moore",
+      "isbn": "9782809444032",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb442315207",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb442315207",
+        "ISBN 9782809444032"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. Hors-série / [directeur de la publication Alain Guerrini]",
+      "isbn": "",
+      "publisher": [
+        "Marvel France (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2014-2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb442245213",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb442245213",
+        "ISSN 24173304"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb444822352",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb444822352"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / High moon studios",
+      "isbn": "",
+      "publisher": [
+        "Activision publishing (Santa Monica (Calif.))",
+        "Coöperatie Activision Blizzard international [diff.] (Schiphol-Rijk (The Netherlands))",
+        "Activision Blizzard France [distrib.] (Levallois-Perret)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "Jeu multimédia",
+        "ressource électronique",
+        "electronic resource"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb444775080",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb444775080"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / developed by High moon studios",
+      "isbn": "",
+      "publisher": [
+        "Activision publishing (Santa Monica (Calif.))",
+        "Coöperatie Activision Blizzard international [diff.] (Schiphol-Rijk (The Netherlands))",
+        "Activision Blizzard France [distrib.] (Levallois-Perret)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "Jeu multimédia",
+        "ressource électronique",
+        "electronic resource"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44477522j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44477522j"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre les classiques / Cullen Bunn ; [dessin de] Matteo Lolli",
+      "isbn": "9782809451214",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44450438j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44450438j",
+        "ISBN 9782809451214"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool max / scénario, David Lapham ; dessin, Kyle Baker...",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44436138r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44436138r"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Hawkeye vs Deadpool : balles masquées / Gerry Duggan ; [dessin de] Matteo Lolli, Jacopo Camagni",
+      "isbn": "9782809450071",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2015"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb443976509",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb443976509",
+        "ISBN 9782809450071"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / Tim Miller, réal. ; Rhett Reese, Paul Wernick, scénario ; Tom Holkenborg, comp. ; Ryan Reynolds, Morena Baccarin, Ed Skrein... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment [éd.] (Paris)",
+        "Fox Pathé Europa [distrib.] (Paris)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45074743s",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45074743s"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / Tim Miller, réal. ; Rhett Reese, Paul Wernick, scénario ; Tom Holkenborg, comp. ; Ryan Reynolds, Morena Baccarin, Ed Skrein... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment [éd.] (Paris)",
+        "Fox Pathé Europa [distrib.] (Paris)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45074785q",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45074785q"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / Tim Miller, réal. ; Rhett Reese, Paul Wernick, scénario ; Tom Holkenborg, comp. ; Ryan Reynolds, Morena Baccarin, Ed Skrein... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment [éd.] (Paris)",
+        "Fox Pathé Europa [distrib.] (Paris)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45076252v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45076252v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / scénario, Mike Benson, Adam Glass",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Paris)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45336522f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45336522f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : dessine-moi un psychopathe : trois décennies d'art et d'humour au vitriol / Matthew K. Manning",
+      "isbn": "9782364804685",
+      "publisher": [
+        "Huginn & Muninn (Paris)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45297843j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45297843j",
+        "ISBN 9782364804685"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : ectoplasme en péril / scénario, Christopher Priest, Glenn Heroling ; dessin, Paco Diaz, Jim Calafiore, Andy Smith... [et al.] ; traduction, Geneviève Coulomb, Françoise Effosse-Roche...",
+      "isbn": "9782809455618",
+      "publisher": [
+        "Panini comics (Nice-la-Plaine)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45059547d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45059547d",
+        "ISBN 9782809455618"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les origines / scénario, Fabian Nicieza, Mark Waid ; dessin, Joe Madureira, Ian Churchill, Lee Weeks... [et al.] ; traduction, Makma-Ben KG...",
+      "isbn": "9782809453348",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44504976k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44504976k",
+        "ISBN 9782809453348"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : original motion picture soundtrack / music by Tom Holkenborg aka Junkie XL ; Juice Newton, chant ; Salt-N-Pepa, groupe voc. et instr. ; Neil Sedaka, chant... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Éditions Milan music (France)",
+        "distrib. Universal music (France)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44509275h",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44509275h"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : original motion picture soundtrack / music by Tom Holkenborg aka Junkie XL ; Juice Newton, chant ; Salt-N-Pepa, groupe voc. et instr. ; Neil Sedaka, chant... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Éditions Milan music (France)",
+        "[distrib. Universal music France] (France)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb450421838",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb450421838"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool contre le SHIELD / [Gerry Duggan, Brian Posehn, scénario] ; [Mike Hawthorne, Scott Koblish, dessin]...",
+      "isbn": "9782809456431",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45102219s",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45102219s",
+        "ISBN 9782809456431"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre Deadpool / Cullen Bunn ; [dessin de] Salva Espin",
+      "isbn": "9782809453317",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44505419m",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44505419m",
+        "ISBN 9782809453317"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool reloaded : more music from the motion picture / Tom Holkenborg, comp.",
+      "isbn": "",
+      "publisher": [
+        "Universal music (Europe)",
+        "[distrib. Universal music France] (France)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "Sans contenu linguistique"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb450417694",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb450417694"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Carnage : chaîne symbiotique / Cullen Bunn ; [dessin de] Salva Espin, Kim Jacinto, Mike Henderson",
+      "isbn": "9782809457155",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb451440097",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb451440097",
+        "ISBN 9782809457155"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Fear itself : Deadpool & compagnie / Hastings, Dazo, Yost... [et al.]",
+      "isbn": "9782809453102",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44490223s",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44490223s",
+        "ISBN 9782809453102"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Je suis Deadpool",
+      "isbn": "9782809453294",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb44504922n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb44504922n",
+        "ISBN 9782809453294"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Le mariage de Deadpool / scénario, Gerry Duggan, Brian Posehn, Fabian Nicieza... [et al.] ; dessin, Scott Koblish, Mike Hawthorne, Scott Hepburn...",
+      "isbn": "9782809460438",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45230626g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45230626g",
+        "ISBN 9782809460438"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Le retour du Deadpool-vivant / Cullen Bunn, scénario ; Nik Virella, dessin...",
+      "isbn": "9782809454420",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb450042329",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb450042329",
+        "ISBN 9782809454420"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Secret wars. Deadpool / [directeur de la publication Alain Guerrini]",
+      "isbn": "",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2016-2016"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb444937007",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb444937007"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "All-new Deadpool / [directeur de la publication Alain Guerrini]",
+      "isbn": "",
+      "publisher": [
+        "Panini France SA (Nice)"
+      ],
+      "dates": [
+        "2016-2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45079877k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45079877k",
+        "ISSN 24952060"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "All-new Deadpool. Hors-série / [directeur de la publication Alain Guerrini]",
+      "isbn": "",
+      "publisher": [
+        "Panini France SA (Nice)"
+      ],
+      "dates": [
+        "2016-2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45123861w",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45123861w",
+        "ISSN 24966444"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "All-New Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb454335833",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb454335833"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45342168w",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45342168w"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : il faut soigner le soldat Wilson / scénario, Duane Swierczynski ; dessin, Jason Pearson...",
+      "isbn": "9782809460858",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45215844r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45215844r",
+        "ISBN 9782809460858"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool contre dents de sabre / [scénario, Gerry Duggan, Brian Posehn] ; [dessin, Scott Koblish, Matteo Lolli]...",
+      "isbn": "9782809466997",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45392270r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45392270r",
+        "ISBN 9782809466997"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool v Gambit : le \"v\" c'est pour \"vs\" / Ben Acker, Ben Blacker ; [dessin de] Danilo Beyruth",
+      "isbn": "9782809465440",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb453576738",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb453576738",
+        "ISBN 9782809465440"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Thanos : jusqu'à ce que la mort nous sépare / [Tim Seeley] ; [dessin de Elmo Bondoc]",
+      "isbn": "9782809466898",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45392252t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45392252t",
+        "ISBN 9782809466898"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs X-Force : le temps de mourir / Duane Swierczynski ; [dessin de] Pepe Larraz",
+      "isbn": "9782809463309",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb452685362",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb452685362",
+        "ISBN 9782809463309"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool, Spider-Man : Spideypool / [scénario], Kevin Shinick, John Layman, Christopher Hastings ; [dessin], Jacopo Camagni, Aaron Kuder",
+      "isbn": "9782809464207",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45362452r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45362452r",
+        "ISBN 9782809464207"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La mort de Deadpool / scénario, Gerry Duggan, Brian Posehn, Mike Drucker... [et al.] ; dessin, Salva Espin, Mike Hawthorne, Irene Lee... [et al.]",
+      "isbn": "9782809463798",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45308057k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45308057k",
+        "ISBN 9782809463798"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Méchant Deadpool / scénario, Daniel Way ; dessin, Salva Espin, John McCrea, Carlos Barberi... [et al.] ; traduction, Jérémy Manesse...",
+      "isbn": "9782809462814",
+      "publisher": [
+        "Panini comics (Saint-Laurent-du-Var)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb453440908",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb453440908",
+        "ISBN 9782809462814"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Spider-Man-Deadpool / Joe Kelly ; [dessin de] Ed McGuiness",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb454095770",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb454095770"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. Hors-série (2017)",
+      "isbn": "",
+      "publisher": [
+        "Panini France SA (Nice)"
+      ],
+      "dates": [
+        "2017-2017"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45328264t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45328264t",
+        "ISSN 25564331"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool (2017)",
+      "isbn": "",
+      "publisher": [
+        "Panini France SA (Nice)"
+      ],
+      "dates": [
+        "2017-2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "publication en série imprimée",
+        "printed serial",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb453281458",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb453281458",
+        "ISSN 25564315"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Cable : fraction de seconde / scénario, Fabian Nicieza, Reilly Brown ; dessin, Reilly Brown...",
+      "isbn": "9782809470857",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455037538",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455037538",
+        "ISBN 9782809470857"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / Tim Miller, réal. ; Rhett Reese, Paul Wernick, scénario ; Tom Holkenborg, comp. ; Ryan Reynolds, Morena Baccarin, Ed Skrein... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment France (Paris)",
+        "Fox Pathé Europa (Paris)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45666084r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45666084r"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool 2 / David Leitch, réal. ; Rhett Reese, Paul Wernick, Ryan Reynolds, scénario ; Tyler Bates, comp. ; Ryan Reynolds, Morena Baccarin, Josh Brolin... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment (Paris)",
+        "Fox Pathé Europa (Paris)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45664954t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45664954t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool 2 / David Leitch, réal. ; Rhett Reese, Paul Wernick, Ryan Reynolds, scénario ; Tyler Bates, comp. ; Ryan Reynolds, Morena Baccarin, Josh Brolin... [et al.], act.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century Fox home entertainment (Paris)",
+        "Fox Pathé Europa (Paris)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45665808m",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45665808m"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : flash-back / scénario, Gerry Duggan, Brian Posehn ; dessin, Scott Koblish... ; traduction, Jérémy Manesse...",
+      "isbn": "9782809470338",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb454960632",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb454960632",
+        "ISBN 9782809470338"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool Marvel legacy (Éd. collector)",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45598162n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45598162n"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool Marvel legacy. 1 (Éd. collector) [scénario, Gerry Duggan] ; [dessin, Scott Koblish]",
+      "isbn": "9782809474480",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455436963",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455436963",
+        "ISBN 9782809474480"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool corps : a-pool-calypse now / Victor Gischler ; [dessin de] Rob Liefeld, Marat Mychaels",
+      "isbn": "9782809471175",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455209525",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455209525",
+        "ISBN 9782809471175"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool re-massacre Marvel / Cullen Bunn ; [dessin de] Dalibor Talajić",
+      "isbn": "9782809473599",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45597112v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45597112v",
+        "ISBN 9782809473599"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs old man Logan : le clown et le vieux / [scénario, Declan Shalvey] ; [dessin, Mike Henderson]",
+      "isbn": "9782809474633",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45628208v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45628208v",
+        "ISBN 9782809474633"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 2 : original motion picture score / music by Tyler Bates ; Tyler Bates, guit. [acc. voc. et instr.] ; Tim Williams, dir.",
+      "isbn": "",
+      "publisher": [
+        "Sony music entertainment (Europe)",
+        "Sony music entertainment (France)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455028868",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455028868"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 2 : original motion picture soundtrack / Céline Dion, French Montana, chant ; Diplo, disc jockey... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Sony music entertainment (Europe)",
+        "Sony music entertainment (France)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455128885",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455128885"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Je suis Deadpool / Marvel",
+      "isbn": "9782809470864",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb455041426",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb455041426",
+        "ISBN 9782809470864"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Mme Deadpool et les howling commandos : la morsure de la veuve / Gerry Duggan ; [dessin de] Salvador Espin",
+      "isbn": "9782809471540",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45525005c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45525005c",
+        "ISBN 9782809471540"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Tu es Deadpool : le comics dont tu es le héros / [scénario, Al Ewing] ; [dessins, Salva Espin, Paco Diaz]",
+      "isbn": "9782809475852",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45622059r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45622059r",
+        "ISBN 9782809475852"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Wolverine vs Deadpool : le loup sort du bois / scénario, Daniel Way, Rob Liefeld, Eric Stephenson... [et al.] ; dessin, Steve Dillon, Rob Liefeld, Shawn Crystal... [et al.] ; traduction, Thomas Davier, Nicole Duclos...",
+      "isbn": "9782809467727",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2018"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45444606c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45444606c",
+        "ISBN 9782809467727"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Cable & Deadpool : le culte de la personnalité / scénario, Fabian Nicieza ; dessin, Mark Brooks, Chris Stevens, Patrick Zircher... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45718996v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45718996v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Cable & Deadpool : offrande brûlée / scénario, Fabian Nicieza ; dessins, Patrick Zircher ; encrage, Rob Ross-studio Udon et Meth ; couleurs, Shane Law-studio Udon, Kevin Yan et Gotham studio ; traduction, Makma-Ben KG...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45786073p",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45786073p"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & les pros à payer : le cirque du crime / [scénario], Bunn ; [dessin], Espin, Coello",
+      "isbn": "9782809479447",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45852603r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45852603r",
+        "ISBN 9782809479447"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : la collection qui tue",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45769363h",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45769363h"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les débuts. 1 / scénario, Rob Liefeld, Fabian Nicieza, Dan Slott... [et al.] ; dessin, Rob Liefeld, Sandu Florea, Pat Oliffe... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb457544385",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb457544385"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool Freestyle (Découpe-les tous) / KillASon",
+      "isbn": "",
+      "publisher": [
+        "Idol (France)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46914432r",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46914432r"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool corps : prélude / [scénario], Victor Gischler ; [dessin], Rob Liefeld, Whilce Portacio",
+      "isbn": "9782809477603",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45748401k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45748401k",
+        "ISBN 9782809477603"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool en ligne !",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb458096638",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb458096638"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre Deadpool / scénario, Cullen Bunn ; dessin, Salva Espin. Deadpool VS Carnage / scénario, Cullen Bunn ; dessin, Salva Espin",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb457297257",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb457297257"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre Marvel / scénario, Cullen Bunn ; dessin, Dalibor Talajic. Deadpool massacre les classiques / scénario, Cullen Bunn ; dessin, Matteo Lolli",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb457190044",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb457190044"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool président ! / scénario, Gerry Duggan et Brian Posehn ; dessin, Tony Moore ; couleurs, Val Staples ; traduction, Jérémy Manesse",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb458096607",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb458096607"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool tue cable / [scénario, Gerry Duggan] ; [dessin, Scott Koblish]",
+      "isbn": "9782809478358",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45787330g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45787330g",
+        "ISBN 9782809478358"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Punisher / scénario, Fred Van Lente ; dessin, Pere Pérez ; couleurs, Ruth Redmond...",
+      "isbn": "9782809475906",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45645533k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45645533k",
+        "ISBN 9782809475906"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Détestable Deadpool / [scénario, Gerry Duggan] ; [dessin, Scott Koblish]",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb458316300",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb458316300"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "L'univers Marvel massacre Deadpool / [scénario, Gerry Duggan] ; [dessin, Mike Hawthorne, Scott Koblish, Matteo Lolli]",
+      "isbn": "9782809479539",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45853025n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45853025n",
+        "ISBN 9782809479539"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La nuit des morts-vivants / scénario, Cullen Bunn ; dessins, Ramon Rosanas. Le retour du Deadpool-vivant / scénario, Cullen Bunn ; dessins, Nik Virella",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45786078d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45786078d"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "SUPAHEROZ / KillASon",
+      "isbn": "",
+      "publisher": [
+        "Idol (France)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb469728976",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb469728976"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Spider-Man-Deadpool / [scénario], Robbie Thompson",
+      "isbn": "",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb458097041",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb458097041"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Wolverine origins : Deadpool / scénario, Daniel Way ; dessin, Steve Dillon ; couleurs, Matt Milla...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2019"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb45754445f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb45754445f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / [scénario, Gerry Duggan, Brian Posehn] ; [dessin, Scott Koblish]",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46793019h",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46793019h"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / scénario, Kelly Thompson",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb467931429",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb467931429"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : Deadpool massacre Marvel / scénario, Cullen Bunn ; dessin, Dalibor Talajić ; couleurs, Lee Loughridge...",
+      "isbn": "9782809488180",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466045418",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466045418",
+        "ISBN 9782809488180"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : il faut soigner le soldat Wilson / [scénario, Duane Swierczynski] ; [dessin, Jason Pierson]",
+      "isbn": "9782809487442",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466105974",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466105974",
+        "ISBN 9782809487442"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : l'intégrale",
+      "isbn": "",
+      "publisher": [
+        "Walt Disney studios home entertainment (Paris)",
+        "Walt Disney studios home entertainment (Paris)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "mul"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466580787",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466580787"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : la nuit des morts-vivants / scénario, Cullen Bunn ; dessin et couleurs, Ramon Rosanas, Nik Virella...",
+      "isbn": "9782809487077",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46576609t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46576609t",
+        "ISBN 9782809487077"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : original motion picture soundtrack / music by Tom Holkenborg aka Junkie XL ; Juice Newton, chant ; Salt 'n' pepa, groupe voc. et instr.",
+      "isbn": "",
+      "publisher": [
+        "Twentieth century fox film (États-Unis)",
+        "[Sony music entertainment] (France)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "eng"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46682371t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46682371t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool contre le SHIELD",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46628031z",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46628031z"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool corps : a-pool-calypse now / scénario, Victor Gischler ; dessin, Rob Liefeld,... et Marat Mychaels,... ; encrage, Adelso Corona,... et Jamie Mendoza,... ; couleurs, Matt Yackey",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466279169",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466279169"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool pulp / scénario, Adam Glass et Mike Benson ; dessin, Laurence Campbell ; couleurs, Lee Loughridge...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466278568",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466278568"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "L'intégrale Deadpool",
+      "isbn": "",
+      "publisher": [
+        "20th century studios (Paris)",
+        "Walt Disney studios home entertainment (Paris)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "mul"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46656899x",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46656899x"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Le mariage de Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466482924",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466482924"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Prélude à Deadpool corps / scénario, Victor Gischler ; dessin, Rob Liefeld,... Whilce Portacio,... Philip Bond... [et al.] ; encrage, Jaime Mendoza,... et Juan Vlasco...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb466279138",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb466279138"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Spider-Man-Deadpool : l'amour vache / [scénario], Joe Kelly ; [dessin], Ed McGuinness",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2020"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46628265t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46628265t"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Cable & Deadpool, anxiété de séparation / scénario, Fabian Nicieza ; dessin, Reilly Brown, Staz Johnson, Ron Lim... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46813348f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46813348f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool",
+      "isbn": "9782809496246",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46772061n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46772061n",
+        "ISBN 9782809496246"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : il faut soigner le soldat Wilson / scénario, Duane Swierczynski ; dessin, Jason Pearson,...",
+      "isbn": "9782809496864",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46820735p",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46820735p",
+        "ISBN 9782809496864"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : l'intégrale",
+      "isbn": "",
+      "publisher": [
+        "Walt Disney studios home entertainment (Paris)",
+        "Walt Disney studios home entertainment (Paris)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "eng",
+        "fre"
+      ],
+      "type": [
+        "image animée",
+        "moving image"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb468917670",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb468917670"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les noces de Dracula / [histoire et scénario], Posehn, Duggan ; [dessin], Brown, Randolph, Koblish",
+      "isbn": "9782809499353",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb468855974",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb468855974",
+        "ISBN 9782809499353"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : retour aux affaires / [scénario, Skottie Young] ; [dessin, Nic Klein, Scott Hepburn]",
+      "isbn": "9782809494976",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46756646z",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46756646z",
+        "ISBN 9782809494976"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool contre l'univers Marvel / scénario, Fabian Nicieza et Reilly Brown ; dessin, Ron Lim et Reilly Brown...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb469243769",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb469243769"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool v Gambit / Ben Acker & Ben Blacker, scénario ; Danilo Beyruth, dessin ; Cris Peter, couleurs...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb468513432",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb468513432"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool à l'asile / scénario, Daniel Way, Rick Remender ; dessin, Carlo Barberi, Shawn Moll...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46911322f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46911322f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool, assassin / [scénario, Cullen Bunn] ; [dessin, Mark Bagley]",
+      "isbn": "9782809495614",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46754676d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46754676d",
+        "ISBN 9782809495614"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Evil Deadpool / scénario, Daniel Way ; dessin, Salva Espin, Scott Koblish, John Mccrea...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb46961542n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb46961542n"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La mort de Deadpool / scénario, Daniel Way, Kevin Shinick ; dessin, Carlo Barberi,...Ale Garza, Aaron Kuder ; couleurs, Dommo Sanchez Amara,...Matt Hollingsworth...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47008052m",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47008052m"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Spider-Man-Deadpool / [scénario], Thompson ; [dessin]Horak, Towe",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2021"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb468472927",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb468472927"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Agent X : le deadpool-vivant",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47030754x",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47030754x"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Cable / Marvel",
+      "isbn": "9791039106429",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47030083k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47030083k",
+        "ISBN 9791039106429"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : 30 ans du mercenaire à grande bouche... / Fabio Licari et Marco Rizzo ; traduit par Philippe Touboul",
+      "isbn": "9782017178491",
+      "publisher": [
+        "Hachette heroes (Vanves)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47135550c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47135550c",
+        "ISBN 9782017178491"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : black, white & blood / scénario, Tom Taylor, Ed Brisson, James Stokoe... [et al.] ; dessin et couleurs, Phil Noto, Whilce Portacio, Rachelle Rosemberg... [et al.]...",
+      "isbn": "9791039106764",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47053486v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47053486v",
+        "ISBN 9791039106764"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : il faut soigner le soldat Wilson / scénario, Duane Swierczynski ; dessin, Jason Pearson,... ; couleurs, Paul Mounts...",
+      "isbn": "9791039110938",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47151561g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47151561g",
+        "ISBN 9791039110938"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : l'intégrale",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb472841371",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb472841371"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : le bon, la brute et le truand / scénario, Gerry Duggan, Brian Posehn ; dessin, Scott Koblish, Declan Shalvey...",
+      "isbn": "9791039110587",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47124054x",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47124054x",
+        "ISBN 9791039110587"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai (Éd. collector) scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47139175k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47139175k"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai / scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb471620230",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb471620230"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai. 1 (Éd. collector) scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "9791039109802",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47080840j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47080840j",
+        "ISBN 9791039109802"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai. 1 / scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "9791039109734",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47081523c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47081523c",
+        "ISBN 9791039109734"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai. 2 / scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "9791039111058",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb471338214",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb471338214",
+        "ISBN 9791039111058"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 1991-1994 / [scénario], Rob Liefeld, Fabian Nicieza ; [dessin], Joe Madureira",
+      "isbn": "9791039110983",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb471763083",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb471763083",
+        "ISBN 9791039110983"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La mort de Deadpool",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb470524691",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb470524691"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "La renaissance de Deadpool / [scénario], Daniel Way ; [dessin], Shawn Crystal, Salva Espin, Ale Garza... [et al.]",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb470523401",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb470523401"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Le mariage de Deadpool / scénario, Gerry Duggan, Brian Posehn, Ben Acker... [et al.] ; dessin, Mike Hawthorne, Scott Koblish, John Lucas... [et al.] ; couleurs, Jordie Bellaire, Val Staples, Veronica Gandini...",
+      "isbn": "9782809498363",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2022"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb470044386",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb470044386",
+        "ISBN 9782809498363"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / [scénario], Wong",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47404356j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47404356j"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : Deadpool re-massacre Marvel / scénario, Cullen Bunn ; dessin, Dalibor Talajić ; couleurs, Miroslav Mrva...",
+      "isbn": "9791039115612",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb472677130",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb472677130",
+        "ISBN 9791039115612"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : Suicide Kings",
+      "isbn": "9791039115292",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb472775605",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb472775605",
+        "ISBN 9791039115292"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 1994-1997",
+      "isbn": "9791039119320",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47353038d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47353038d",
+        "ISBN 9791039119320"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Marvel multiverse ([Éd. à] tirage limité) dessin, Alex Ross",
+      "isbn": "9791039117654",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb472693272",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb472693272",
+        "ISBN 9791039117654"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Tu n'es (pas) Deadpool / Tim Dedopulos ; traduit par Laurent Laget",
+      "isbn": "9791032407813",
+      "publisher": [
+        "404 éditions (Paris)"
+      ],
+      "dates": [
+        "2023"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb473599448",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb473599448",
+        "ISBN 9791032407813"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Black Panther vs Deadpool / scénario, Daniel Kibblesmith ; dessin, Ricardo López Ortiz ; couleurs, Felipe Sobreiro ; traduction, Studio Makma, Mathieu Auverdin...",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb476684869",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb476684869"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "isbn": "9791039124584",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb475315863",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb475315863",
+        "ISBN 9791039124584"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Wolverine : Original Motion Picture Soundtrack",
+      "isbn": "",
+      "publisher": [
+        "Universal Music France (France)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "mul"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47636391h",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47636391h"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Wolverine : Original Motion Picture Soundtrack/Deluxe Edition",
+      "isbn": "",
+      "publisher": [
+        "Universal Music France (France)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "mul"
+      ],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb476371064",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb476371064"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool & Wolverine : Original Score / Rob Simonsen",
+      "isbn": "",
+      "publisher": [
+        "Universal Music France (France)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47637107g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47637107g"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : badder blood / [scénario], Liefeld, Bowers",
+      "isbn": "9791039124430",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb475351879",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb475351879",
+        "ISBN 9791039124430"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : les origines / Marvel",
+      "isbn": "9791039127899",
+      "publisher": [
+        "Panini family (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47480135q",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47480135q",
+        "ISBN 9791039127899"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : poursuite circulaire / scénario, Fabian Nicieza ; dessin, Joe Madureira ; couleurs, Glynis Oliver ; traduction, Studio Makma, Ben KG...",
+      "isbn": "9791039124546",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb475295786",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb475295786",
+        "ISBN 9791039124546"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool Wolverine : WWIII / [scénario], Kelly ; [dessin], Kubert",
+      "isbn": "9791039131377",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb476132557",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb476132557",
+        "ISBN 9791039131377"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool collection / Marvel",
+      "isbn": "",
+      "publisher": [
+        "Panini family (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb475011375",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb475011375"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Absolute Carnage / [scénario], Tieri ; [dessin], Ferreira",
+      "isbn": "9791039128797",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47529597g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47529597g",
+        "ISBN 9791039128797"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Black Panther / [scénario], Kibblesmith ; [dessin de] López Ortiz",
+      "isbn": "9791039128803",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47529382w",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47529382w",
+        "ISBN 9791039128803"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Carnage / [scénario], Bunn ; [dessin et encrage] Espin, Jacinto, Henderson",
+      "isbn": "9791039128810",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538215f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538215f",
+        "ISBN 9791039128810"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Gambit / [scénario], Acker, Blacker ; [dessin de] Beyruth",
+      "isbn": "9791039128827",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538228s",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538228s",
+        "ISBN 9791039128827"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Hawkeye / [scénario], Duggan ; [dessin], Lolli, Camagni",
+      "isbn": "9791039128834",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538209h",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538209h",
+        "ISBN 9791039128834"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Old Man Logan / [scénario], Shalvey ; [dessin], Henderson",
+      "isbn": "9791039128841",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538233c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538233c",
+        "ISBN 9791039128841"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Punisher / [scénario], Van Lente ; [dessin], Pérez",
+      "isbn": "9791039128858",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47532885t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47532885t",
+        "ISBN 9791039128858"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs Thanos / [scénario], Seeley ; [dessin de] Bondoc",
+      "isbn": "9791039128865",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538204s",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538204s",
+        "ISBN 9791039128865"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs X-Force / [scénario], Swierczynski ; [dessin de] Larraz",
+      "isbn": "9791039128872",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47538231p",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47538231p",
+        "ISBN 9791039128872"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool vs...",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47559216f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47559216f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 1997 / [scénario], Joe Kelly ; [dessin], Ed McGuinness",
+      "isbn": "9791039124591",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb474904750",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb474904750",
+        "ISBN 9791039124591"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Tu es Deadpool : le comic dont tu es le héros / [scenario de] Al Ewing ; [illustrations de] Paco Diaz & Salva Espin",
+      "isbn": "",
+      "publisher": [
+        "Hachette collections (Vanves)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb474228189",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb474228189"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Wolverine vs Deadpool : le loup sort du bois / scénario, Larry Hama, Chris Golden, Joe Kelly... [et al.] ; dessin, Adam Kubert et Fabio Laguna, Ben Herrera... [et al.] ; couleurs, Marie Javins, Ian Laughlin, Kevin Somers... [et al.] ; traduction, Studio Makma/Ben KG, Nicole Duclos, Thomas Davier...",
+      "isbn": "9791039124577",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2024"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47534405q",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47534405q",
+        "ISBN 9791039124577"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool (From \"Marvel's Deadpool VR\") : From \"Marvel's Deadpool VR\" / Christopher Young ; Gil Young",
+      "isbn": "",
+      "publisher": [
+        "Universal Music France (France)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48714681f",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48714681f"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / [scénario], Ziglar ; [dessin], Antônio, Gapstur, Di Vito",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47647883q",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47647883q"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : Deadpool massacre Marvel / scénario, Cullen Bunn ; dessin, Dalibor Talajić ; couleurs, Lee Loughridge, Miroslav Mrva ; traduction, Jérémy Manesse, Alex Nikolavitch...",
+      "isbn": "9791039136808",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb485478396",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb485478396",
+        "ISBN 9791039136808"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre Marvel une dernière fois",
+      "isbn": "9791039139700",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48692928t",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48692928t",
+        "ISBN 9791039139700"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai : l'intégrale / scénario, Sanshiro Kasama ; dessin, Hikaru Uesugi",
+      "isbn": "9791039133593",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb47641520j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb47641520j",
+        "ISBN 9791039133593"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool team-up : le sang du dragon / [scénario et dessin], Liefeld",
+      "isbn": "9791039134217",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48535878d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48535878d",
+        "ISBN 9791039134217"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool-Wolverine / [scénario], Percy ; [dessin], Cassara",
+      "isbn": "",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48693209v",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48693209v"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool. 1998 / [scénario], Joe Kelly ; [dessin], Walter McDaniel",
+      "isbn": "9791039134378",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48539431m",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48539431m",
+        "ISBN 9791039134378"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Marvel's Deadpool VR (Original Video Game Soundtrack) : Original Video Game Soundtrack / Christopher Young ; Gil Young",
+      "isbn": "",
+      "publisher": [
+        "Universal Music France (France)"
+      ],
+      "dates": [
+        "2025"
+      ],
+      "language": [],
+      "type": [
+        "enregistrement sonore",
+        "sound recording",
+        "sound"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48740195d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48740195d"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Bain de sang",
+      "isbn": "9791039142366",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48720199c",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48720199c",
+        "ISBN 9791039142366"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Coffret Deadpool Batman. 01",
+      "isbn": "9791026854562",
+      "publisher": [
+        "Urban Comics (Paris)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48700748q",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48700748q",
+        "ISBN 9791026854562"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool / batman",
+      "isbn": "9791026854562",
+      "publisher": [
+        "Urban Comics"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb488549562",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb488549562",
+        "ISBN 9791026854562"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool : l'intégrale : 1998-1999",
+      "isbn": "9791039144452",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48784196j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48784196j",
+        "ISBN 9791039144452"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool Wolverine. 2, L'héritage perdu",
+      "isbn": "9791039143318",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48731655k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48731655k",
+        "ISBN 9791039143318"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool massacre Deadpool",
+      "isbn": "9791039142519",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48710260d",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48710260d",
+        "ISBN 9791039142519"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Deadpool samurai : saison 2. 1",
+      "isbn": "9791039144049",
+      "publisher": [
+        "Panini manga (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48719978k",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48719978k",
+        "ISBN 9791039144049"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Je suis Deadpool (Ed. anniversaire 35 ans)",
+      "isbn": "9791039141413",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb487299643",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb487299643",
+        "ISBN 9791039141413"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Je suis Deadpool (Edition collector)",
+      "isbn": "9791039141871",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48710428g",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48710428g",
+        "ISBN 9791039141871"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Spider-man & Deadpool",
+      "isbn": "9791039146821",
+      "publisher": [
+        "Panini comics (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48810879n",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48810879n",
+        "ISBN 9791039146821"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Wolverines & Deadpools : griffus et mercenaires",
+      "isbn": "9791039144902",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb48795510j",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb48795510j",
+        "ISBN 9791039144902"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    },
+    {
+      "title": "Wolverines & Deadpools : griffus et mercenaires",
+      "isbn": "9791039144902",
+      "publisher": [
+        "Panini France (Nice)"
+      ],
+      "dates": [
+        "2026"
+      ],
+      "language": [
+        "fre"
+      ],
+      "type": [
+        "texte imprimé",
+        "printed text",
+        "text"
+      ],
+      "bnf_url": "http://catalogue.bnf.fr/ark:/12148/cb487945062",
+      "identifiers": [
+        "http://catalogue.bnf.fr/ark:/12148/cb487945062",
+        "ISBN 9791039144902"
+      ],
+      "status": "Notice BnF : rapprochement édition à vérifier"
+    }
+  ]
+}
