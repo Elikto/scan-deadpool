@@ -1,5 +1,631 @@
 {
-  "checked_at": null,
-  "books": {},
-  "source": "En attente de la première exécution planifiée"
+  "checked_at": "2026-11-16T19:03:15+00:00",
+  "books": {
+    "c0": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c1": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c2": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c3": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c4": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c5": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c6": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c7": {
+      "isbn": "9782809455618",
+      "cover": null,
+      "offers": []
+    },
+    "c8": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c9": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c10": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c11": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c12": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c13": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c14": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c15": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c16": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c17": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c18": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c19": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c20": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c21": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c22": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c23": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c24": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c25": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c26": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c27": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c28": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c29": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c30": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c31": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c32": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c33": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c34": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c35": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c36": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c37": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c38": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c39": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c40": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c41": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c42": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c43": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "c44": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h1": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h2": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h3": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h4": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h5": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h6": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h7": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h8": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h9": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h10": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h11": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h12": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h13": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h14": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h15": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h16": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h17": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h18": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h19": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h20": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h21": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h22": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h23": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h24": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h25": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h26": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h27": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h28": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h29": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h30": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h31": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h32": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h33": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h34": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h35": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h36": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h37": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h38": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h39": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h40": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h41": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h42": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h43": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h44": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h45": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h46": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h47": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h48": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h49": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h50": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h51": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h52": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h53": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h54": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h55": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h56": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h57": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h58": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h59": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h60": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h61": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h62": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h63": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h64": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h65": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h66": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h67": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h68": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h69": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h70": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h71": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h72": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h73": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h74": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h75": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h76": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h77": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h78": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h79": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "h80": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    }
+  },
+  "source": "ISBN Open Library + offres autorisees"
 }
