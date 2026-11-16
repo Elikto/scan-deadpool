@@ -6,6 +6,7 @@ import urllib.request
 import urllib.parse
 import unicodedata
 import time
+import difflib
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -16,7 +17,7 @@ if not match:
     raise SystemExit("Catalogue introuvable dans index.html")
 books = json.loads(match.group(1))
 now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-result = {"checked_at": now, "books": {}, "source": "ISBN Open Library + offres autorisees"}
+result = {"checked_at": now, "books": {}, "source": "Open Library + Google Books + offres autorisées"}
 feeds = ROOT / "data" / "merchant-offers.json"
 provided = json.loads(feeds.read_text(encoding="utf-8")) if feeds.exists() else {}
 def normalized(s):
@@ -44,11 +45,52 @@ def google_cover(isbn, title):
         pass
     return None
 
+
+def read_json(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "DeadpoolCatalogue/2.0"})
+    with urllib.request.urlopen(req, timeout=9) as response:
+        return json.load(response)
+
+def valid_isbn(value):
+    if len(value) == 13 and value.isdigit():
+        return sum(int(c) * (1 if i % 2 == 0 else 3) for i, c in enumerate(value)) % 10 == 0
+    return False
+
+def crosscheck(book, isbn):
+    """Compare ISBN et titre dans deux catalogues; ne devine jamais les ISBN manquants."""
+    sources = []
+    endpoints = [
+        ("Open Library", "https://openlibrary.org/isbn/" + isbn + ".json"),
+        ("Google Books", "https://www.googleapis.com/books/v1/volumes?" +
+         urllib.parse.urlencode({"q": "isbn:" + isbn, "maxResults": 5}))
+    ]
+    for name, url in endpoints:
+        try:
+            data = read_json(url)
+            if name == "Google Books":
+                candidates = [x.get("volumeInfo", {}) for x in data.get("items", [])]
+            else:
+                candidates = [data]
+            for item in candidates:
+                title = item.get("title", "")
+                ids = [str(x.get("identifier", "")) for x in item.get("industryIdentifiers", [])]
+                if name == "Google Books" and isbn not in ids:
+                    continue
+                a, b = normalized(book.get("title", "")), normalized(title)
+                if "deadpool" not in b or difflib.SequenceMatcher(None, a, b).ratio() < 0.9:
+                    continue
+                sources.append({"name": name, "url": url, "title": title,
+                                "published_date": item.get("publishedDate") or item.get("publish_date")})
+                break
+        except Exception:
+            continue
+    return sources
+
 allowed = {"Fnac", "Cultura", "BDfugue", "E.Leclerc", "Amazon"}
 for book in books:
     isbn = re.sub(r"[^0-9X]", "", book.get("isbn") or "")
-    entry = {"isbn": isbn, "cover": None, "offers": []}
-    if len(isbn) in (10, 13):
+    entry = {"isbn": isbn, "cover": None, "offers": [], "bibliography": {"status": "non vérifié", "sources": []}}
+    if valid_isbn(isbn):
         url = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg?default=false"
         try:
             request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "DeadpoolVF-Catalog/1.0"})
@@ -57,9 +99,13 @@ for book in books:
                     entry["cover"] = f"https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
         except Exception:
             pass
-    if len(isbn) in (10, 13) and not entry["cover"]:
+    if valid_isbn(isbn) and not entry["cover"]:
         entry["cover"] = google_cover(isbn, book.get("title", ""))
         time.sleep(0.2)
+    if valid_isbn(isbn):
+        entry["bibliography"]["sources"] = crosscheck(book, isbn)
+        if entry["bibliography"]["sources"]:
+            entry["bibliography"]["status"] = "ISBN et titre concordants"
     for offer in provided.get(isbn, []):
         if not isinstance(offer, dict) or offer.get("store") not in allowed:
             continue
