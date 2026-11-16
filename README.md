@@ -24,7 +24,7 @@ Projet non affilié à Marvel, Panini, Hachette ou aux enseignes mentionnées.
 
 ## Actualisation quotidienne
 
-Le workflow `.github/workflows/update-catalog.yml` est planifié tous les jours à 05:23 UTC (exécution GitHub Actions non garantie à la minute). Il peut aussi être lancé manuellement depuis **Actions → Actualiser le catalogue Deadpool VF → Run workflow**.
+Le workflow `.github/workflows/update-catalog.yml` est planifié tous les jours à 22 h 23 (Europe/Paris) (exécution GitHub Actions non garantie à la minute). Il se déclenche également lors d'une modification du catalogue ou du workflow, et peut être lancé manuellement depuis **Actions → Actualiser le catalogue Deadpool VF → Run workflow**.
 
 Il vérifie les couvertures ISBN via Open Library et charge uniquement les offres récentes présentes dans `data/merchant-offers.json` (moins de 48 heures, prix, date, disponibilité et URL HTTPS obligatoires). Le résultat est écrit dans `data/catalog-status.json`, que le site charge à l'ouverture. Les liens de recherche marchands restent disponibles sans offres vérifiées.
 
