@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 html = (ROOT / "index.html").read_text(encoding="utf-8")
-match = re.search(r"const books=(\\[.*?\\]);books[.]forEach", html, re.S)
+match = re.search(r"const books=(\[.*?\]);books[.]forEach", html, re.S)
 if not match:
     raise SystemExit("Catalogue introuvable dans index.html")
 books = json.loads(match.group(1))
