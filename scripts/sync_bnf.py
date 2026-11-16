@@ -12,6 +12,30 @@ def isbn(text):
         n=re.sub(r'\D','',raw)
         if len(n)==13 and sum(int(c)*(1 if i%2==0 else 3) for i,c in enumerate(n))%10==0:return n
     return ''
+
+def cover_for_title(title, number):
+    """N'associe une image Google Books que si l'ISBN ou le titre concorde."""
+    import difflib, unicodedata
+    def norm(value):
+        value=unicodedata.normalize('NFKD',str(value)).encode('ascii','ignore').decode().lower()
+        return re.sub(r'[^a-z0-9]+',' ',value).strip()
+    target=title.split(' / ')[0].split(' ; ')[0].strip()
+    query='isbn:'+number if number else 'intitle:'+target[:110]
+    try:
+        params=urllib.parse.urlencode({'q':query,'maxResults':5,'langRestrict':'fr'})
+        req=urllib.request.Request('https://www.googleapis.com/books/v1/volumes?'+params,headers={'User-Agent':'DeadpoolVF-Catalog/1.0'})
+        with urllib.request.urlopen(req,timeout=8) as resp: data=json.load(resp)
+        for volume in data.get('items',[]):
+            info=volume.get('volumeInfo',{})
+            candidate=norm(info.get('title','')+' '+info.get('subtitle',''))
+            if 'deadpool' not in candidate:continue
+            if difflib.SequenceMatcher(None,norm(target),candidate).ratio()<0.9:continue
+            if number and number not in [str(x.get('identifier','')) for x in info.get('industryIdentifiers',[])]:continue
+            cover=info.get('imageLinks',{}).get('thumbnail') or info.get('imageLinks',{}).get('smallThumbnail')
+            if cover and cover.startswith(('http://','https://')):return cover.replace('http://','https://',1)
+    except Exception:pass
+    return ''
+
 def collect():
     found={}
     for query in ('bib.title all "deadpool"','bib.anywhere all "deadpool"'):
@@ -42,6 +66,17 @@ if __name__=='__main__':
         print('BnF indisponible :',exc)
         if OUT.exists():raise SystemExit(0)
         raise SystemExit(1)
+    old={}
+    if OUT.exists():
+        try: old={x.get('bnf_url'):x for x in json.loads(OUT.read_text(encoding='utf-8')).get('books',[])}
+        except (OSError,ValueError):pass
+    # Maximum 30 requêtes par passage, conserver les images déjà validées.
+    pending=0
+    for book in books:
+        book['cover']=old.get(book['bnf_url'],{}).get('cover','')
+        if not book['cover'] and pending<30 and 'texte' in ' '.join(book['type']).lower():
+            book['cover']=cover_for_title(book['title'],book['isbn'])
+            pending+=1
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps({'checked_at':datetime.now(timezone.utc).isoformat(),'source':'BnF SRU Dublin Core','books':books},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print('BnF :',len(books),'notices candidates')
