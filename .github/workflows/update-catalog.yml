@@ -37,7 +37,7 @@ jobs:
             git commit -m "Mise à jour quotidienne du catalogue"
             for attempt in 1 2 3 4 5; do
               git fetch origin main
-              git rebase origin/main
+              git rebase -X theirs origin/main
               if git push origin HEAD:main; then
                 exit 0
               fi
