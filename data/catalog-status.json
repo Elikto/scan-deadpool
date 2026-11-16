@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T19:27:51+00:00",
+  "checked_at": "2026-11-16T19:28:32+00:00",
   "books": {
     "c0": {
       "isbn": "",
@@ -957,6 +957,26 @@
       "offers": []
     },
     "lecture-57": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "panini-dracula-2021": {
+      "isbn": "9782809499353",
+      "cover": null,
+      "offers": []
+    },
+    "panini-2024-deluxe-05": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "panini-2024-deadpool-t02": {
+      "isbn": "",
+      "cover": null,
+      "offers": []
+    },
+    "panini-2026-wolverine-t02": {
       "isbn": "",
       "cover": null,
       "offers": []
