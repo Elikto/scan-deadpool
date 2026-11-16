@@ -30,8 +30,13 @@ Il vérifie les couvertures ISBN via Open Library et charge uniquement les offre
 
 **Important :** ce workflow ne récupère pas automatiquement les tarifs Fnac/Cultura/BDfugue/E.Leclerc/Amazon. Pour cela il faut une source autorisée, telle qu'un flux commerçant ou une API partenaire. Aucun prix n'est inventé. Les livres ne sont grisés que si au moins deux marchands non Amazon ont explicitement confirmé la rupture et que toutes les offres connues sont en rupture. Amazon n'est affiché qu'à au moins 3 € sous le prix le plus bas d'un concurrent connu (hors frais de livraison non renseignés).
 
-## Éditions VF vérifiées
+## Qualité des données et limites
 
-La série Panini **Deadpool 2019** comporte dix tomes identifiés par leur ISBN, leur titre français et leur ordre de publication, ajoutés dans l'onglet **VF 2019**. Source bibliographique : https://scrin.is/fr/series/68785-deadpool-marvel-france-6e-serie-2019 . Le sommaire VO reste à confirmer tome par tome.
+- **Accueil** : parcours indicatif de 57 lectures françaises inspiré du guide Onomato. L'ordre narratif n'est pas une chronologie Marvel officielle et les sommaires doivent être contrôlés album par album.
+- **Parutions françaises** : tri des seules références ayant une année française renseignée ; il ne s'agit pas de l'ordre de lecture.
+- **Collections** : filtres Hachette, Intégrales, Marvel Select, Marvel Deluxe, Marvel NOW!, etc. Certaines affectations restent provisoires.
+- **ISBN** : les dix ISBN de la série 2019 avaient été ajoutés sans justificatif individuel ; ils ont été retirés, ainsi qu'une association manifestement erronée à Spider-Man/Deadpool. Un ISBN valide mathématiquement ne suffit pas à confirmer le livre.
+- **Édition confirmée** : Panini fournit une fiche produit officielle pour *Deadpool : Les noces de Dracula*, EAN 9782809499353, sortie le 22 septembre 2021 : https://www.panini.fr/shp_fra_fr/deadpool-les-noces-de-dracula-fmd21044-fr02.html . Sa disponibilité indiquée sur Panini ne vaut pas pour les autres marchands.
+- **Prix et stocks** : aucun accès à un flux commerçant temps réel n'est actuellement configuré ; le site ne doit pas afficher de prix ou de rupture non vérifiés. L'actualisation quotidienne vérifie les données disponibles, pas les catalogues marchands privés.
 
-**Ne pas confondre** : la chronologie principale inclut des épisodes américains et des entrées de lecture, qui ne correspondent pas forcément à un livre VF vendable. Les liens « rechercher » ne prouvent pas qu'un livre est en stock. Les prix marchands et les disponibilités ne sont pas collectés automatiquement faute de flux autorisés.
+**Critères de finalisation restants :** contrôler les éditions une par une auprès de Panini/BnF/libraires, enregistrer les ISBN sourcés, associer des couvertures dont l'édition correspond, relier les pages produits vérifiées, puis connecter des flux marchands autorisés. Ne pas annoncer la couverture exhaustive tant que ces critères ne sont pas atteints.
