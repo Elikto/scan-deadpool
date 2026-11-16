@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:40:52.606751+00:00",
+  "updated_at": "2026-11-16T21:58:36.626497+00:00",
   "books": [
     {
       "id": "bnf-cb45861945g",
@@ -58,8 +58,10 @@
       "collection": "",
       "year": 2011,
       "isbn": "9782809417371",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb423498474"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb423498474&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb423498474",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb42516759v",
@@ -78,8 +80,10 @@
       "collection": "",
       "year": 2011,
       "isbn": "9782809418835",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb42433646r"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb42433646r&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb42433646r",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb426360345",
@@ -98,8 +102,10 @@
       "collection": "",
       "year": 2012,
       "isbn": "9782809422313",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb42582009v"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb42582009v&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb42582009v",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb42744851v",
@@ -128,8 +134,10 @@
       "collection": "",
       "year": 2013,
       "isbn": "9782809431780",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb43629610g"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb43629610g&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb43629610g",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb44317870t",
@@ -448,8 +456,10 @@
       "collection": "",
       "year": 2017,
       "isbn": "9782809466997",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45392270r"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45392270r&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45392270r",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb453576738",
@@ -458,8 +468,10 @@
       "collection": "",
       "year": 2017,
       "isbn": "9782809465440",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb453576738"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb453576738&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb453576738",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45392252t",
@@ -468,8 +480,10 @@
       "collection": "",
       "year": 2017,
       "isbn": "9782809466898",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45392252t"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45392252t&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45392252t",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb452685362",
@@ -538,8 +552,10 @@
       "collection": "",
       "year": 2018,
       "isbn": "9782809470857",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb455037538"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb455037538&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb455037538",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb454960632",
@@ -598,8 +614,10 @@
       "collection": "",
       "year": 2018,
       "isbn": "9782809474633",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45628208v"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45628208v&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45628208v",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb455041426",
@@ -628,8 +646,10 @@
       "collection": "",
       "year": 2018,
       "isbn": "9782809475852",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45622059r"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45622059r&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45622059r",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45444606c",
@@ -638,8 +658,10 @@
       "collection": "",
       "year": 2018,
       "isbn": "9782809467727",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45444606c"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45444606c&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45444606c",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45718996v",
@@ -668,8 +690,10 @@
       "collection": "",
       "year": 2019,
       "isbn": "9782809479447",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45852603r"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45852603r&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45852603r",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45769363h",
@@ -698,8 +722,10 @@
       "collection": "",
       "year": 2019,
       "isbn": "9782809477603",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45748401k"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45748401k&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45748401k",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb458096638",
@@ -748,8 +774,10 @@
       "collection": "",
       "year": 2019,
       "isbn": "9782809478358",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45787330g"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45787330g&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45787330g",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45645533k",
@@ -758,8 +786,10 @@
       "collection": "",
       "year": 2019,
       "isbn": "9782809475906",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45645533k"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45645533k&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45645533k",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb458316300",
@@ -778,8 +808,10 @@
       "collection": "",
       "year": 2019,
       "isbn": "9782809479539",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb45853025n"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb45853025n&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb45853025n",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb45786078d",
@@ -838,8 +870,10 @@
       "collection": "",
       "year": 2020,
       "isbn": "9782809488180",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb466045418"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb466045418&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb466045418",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb466105974",
@@ -848,8 +882,10 @@
       "collection": "",
       "year": 2020,
       "isbn": "9782809487442",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb466105974"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb466105974&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb466105974",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb46576609t",
@@ -858,8 +894,10 @@
       "collection": "",
       "year": 2020,
       "isbn": "9782809487077",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb46576609t"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb46576609t&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb46576609t",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb46628031z",
@@ -958,8 +996,10 @@
       "collection": "",
       "year": 2021,
       "isbn": "9782809499353",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb468855974"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb468855974&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb468855974",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb46756646z",
@@ -968,8 +1008,10 @@
       "collection": "",
       "year": 2021,
       "isbn": "9782809494976",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb46756646z"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb46756646z&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb46756646z",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb469243769",
@@ -1008,8 +1050,10 @@
       "collection": "",
       "year": 2021,
       "isbn": "9782809495614",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb46754676d"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb46754676d&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb46754676d",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb46961542n",
@@ -1068,8 +1112,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9782017178491",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47135550c"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47135550c&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47135550c",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47053486v",
@@ -1078,8 +1124,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039106764",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47053486v"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47053486v&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47053486v",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47151561g",
@@ -1108,8 +1156,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039110587",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47124054x"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47124054x&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47124054x",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47139175k",
@@ -1138,8 +1188,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039109802",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47080840j"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47080840j&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47080840j",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47081523c",
@@ -1148,8 +1200,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039109734",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47081523c"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47081523c&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47081523c",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb471338214",
@@ -1158,8 +1212,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039111058",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb471338214"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb471338214&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb471338214",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb471763083",
@@ -1168,8 +1224,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039110983",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb471763083"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb471763083&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb471763083",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb470524691",
@@ -1198,8 +1256,10 @@
       "collection": "",
       "year": 2022,
       "isbn": "9782809498363",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb470044386"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb470044386&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb470044386",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47404356j",
@@ -1218,8 +1278,10 @@
       "collection": "",
       "year": 2023,
       "isbn": "9791039115612",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb472677130"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb472677130&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb472677130",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb472775605",
@@ -1228,8 +1290,10 @@
       "collection": "",
       "year": 2023,
       "isbn": "9791039115292",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb472775605"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb472775605&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb472775605",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47353038d",
@@ -1238,8 +1302,10 @@
       "collection": "",
       "year": 2023,
       "isbn": "9791039119320",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47353038d"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47353038d&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47353038d",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb473599448",
@@ -1248,8 +1314,10 @@
       "collection": "",
       "year": 2023,
       "isbn": "9791032407813",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb473599448"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb473599448&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb473599448",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb476684869",
@@ -1268,8 +1336,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039124584",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb475315863"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb475315863&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb475315863",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb475351879",
@@ -1278,8 +1348,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039124430",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb475351879"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb475351879&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb475351879",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47480135q",
@@ -1288,8 +1360,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039127899",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47480135q"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47480135q&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47480135q",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb475295786",
@@ -1298,8 +1372,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039124546",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb475295786"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb475295786&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb475295786",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb476132557",
@@ -1308,8 +1384,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039131377",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb476132557"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb476132557&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb476132557",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb475011375",
@@ -1328,8 +1406,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128797",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47529597g"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47529597g&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47529597g",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47529382w",
@@ -1338,8 +1418,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128803",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47529382w"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47529382w&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47529382w",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538215f",
@@ -1348,8 +1430,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128810",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538215f"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538215f&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538215f",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538228s",
@@ -1358,8 +1442,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128827",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538228s"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538228s&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538228s",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538209h",
@@ -1368,8 +1454,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128834",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538209h"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538209h&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538209h",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538233c",
@@ -1378,8 +1466,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128841",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538233c"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538233c&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538233c",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47532885t",
@@ -1388,8 +1478,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128858",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47532885t"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47532885t&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47532885t",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538204s",
@@ -1398,8 +1490,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128865",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538204s"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538204s&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538204s",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47538231p",
@@ -1408,8 +1502,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039128872",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538231p"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47538231p&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47538231p",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47559216f",
@@ -1428,8 +1524,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039124591",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb474904750"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb474904750&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb474904750",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb474228189",
@@ -1448,8 +1546,10 @@
       "collection": "",
       "year": 2024,
       "isbn": "9791039124577",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47534405q"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47534405q&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47534405q",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47647883q",
@@ -1468,8 +1568,10 @@
       "collection": "",
       "year": 2025,
       "isbn": "9791039136808",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb485478396"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb485478396&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb485478396",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48692928t",
@@ -1478,8 +1580,10 @@
       "collection": "",
       "year": 2025,
       "isbn": "9791039139700",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48692928t"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48692928t&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48692928t",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb47641520j",
@@ -1488,8 +1592,10 @@
       "collection": "",
       "year": 2025,
       "isbn": "9791039133593",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb47641520j"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb47641520j&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb47641520j",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48535878d",
@@ -1498,8 +1604,10 @@
       "collection": "",
       "year": 2025,
       "isbn": "9791039134217",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48535878d"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48535878d&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48535878d",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48693209v",
@@ -1518,8 +1626,10 @@
       "collection": "",
       "year": 2025,
       "isbn": "9791039134378",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48539431m"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48539431m&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48539431m",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48700748q",
@@ -1538,8 +1648,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039144452",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48784196j"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48784196j&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48784196j",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48731655k",
@@ -1548,8 +1660,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039143318",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48731655k"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48731655k&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48731655k",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48710260d",
@@ -1558,8 +1672,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039142519",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48710260d"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48710260d&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48710260d",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48719978k",
@@ -1568,8 +1684,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039144049",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48719978k"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48719978k&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48719978k",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb487299643",
@@ -1578,8 +1696,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039141413",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb487299643"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb487299643&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb487299643",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48710428g",
@@ -1588,8 +1708,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039141871",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48710428g"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48710428g&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48710428g",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     },
     {
       "id": "bnf-cb48810879n",
@@ -1598,8 +1720,10 @@
       "collection": "",
       "year": 2026,
       "isbn": "9791039146821",
-      "cover": "",
-      "source": "https://catalogue.bnf.fr/ark:/12148/cb48810879n"
+      "cover": "https://openapi.bnf.fr/couverture/image/image/recupererImage?idArk=ark%3A%2F12148%2Fcb48810879n&couverture=1&taille=originale&largeur=400&hauteur=600",
+      "source": "https://catalogue.bnf.fr/ark:/12148/cb48810879n",
+      "cover_source": "Bibliothèque nationale de France",
+      "cover_retrieved_at": "2026-11-16"
     }
   ]
 }
