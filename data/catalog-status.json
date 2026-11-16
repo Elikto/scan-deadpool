@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T19:17:15+00:00",
+  "checked_at": "2026-11-16T19:21:42+00:00",
   "books": {
     "c0": {
       "isbn": "",
@@ -28,7 +28,7 @@
     },
     "c5": {
       "isbn": "9782809446524",
-      "cover": null,
+      "cover": "https://covers.openlibrary.org/b/isbn/9782809446524-L.jpg",
       "offers": []
     },
     "c6": {
