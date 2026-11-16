@@ -29,3 +29,9 @@ Le workflow `.github/workflows/update-catalog.yml` est planifié tous les jours 
 Il vérifie les couvertures ISBN via Open Library et charge uniquement les offres récentes présentes dans `data/merchant-offers.json` (moins de 48 heures, prix, date, disponibilité et URL HTTPS obligatoires). Le résultat est écrit dans `data/catalog-status.json`, que le site charge à l'ouverture. Les liens de recherche marchands restent disponibles sans offres vérifiées.
 
 **Important :** ce workflow ne récupère pas automatiquement les tarifs Fnac/Cultura/BDfugue/E.Leclerc/Amazon. Pour cela il faut une source autorisée, telle qu'un flux commerçant ou une API partenaire. Aucun prix n'est inventé. Les livres ne sont grisés que si au moins deux marchands non Amazon ont explicitement confirmé la rupture et que toutes les offres connues sont en rupture. Amazon n'est affiché qu'à au moins 3 € sous le prix le plus bas d'un concurrent connu (hors frais de livraison non renseignés).
+
+## Éditions VF vérifiées
+
+La série Panini **Deadpool 2019** comporte dix tomes identifiés par leur ISBN, leur titre français et leur ordre de publication, ajoutés dans l'onglet **VF 2019**. Source bibliographique : https://scrin.is/fr/series/68785-deadpool-marvel-france-6e-serie-2019 . Le sommaire VO reste à confirmer tome par tome.
+
+**Ne pas confondre** : la chronologie principale inclut des épisodes américains et des entrées de lecture, qui ne correspondent pas forcément à un livre VF vendable. Les liens « rechercher » ne prouvent pas qu'un livre est en stock. Les prix marchands et les disponibilités ne sont pas collectés automatiquement faute de flux autorisés.
