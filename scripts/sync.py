@@ -37,6 +37,33 @@ def cover_by_isbn(isbn):
             if image and image.startswith(('https://','http://')):return image.replace('http://','https://',1)
     except Exception as exc:print('Couverture indisponible',isbn,str(exc))
     return ''
+def openlibrary_cover(isbn):
+    """Open Library renvoie 404 si l'ISBN n'a pas de couverture (default=false)."""
+    if not isbn:return ''
+    url='https://covers.openlibrary.org/b/isbn/'+urllib.parse.quote(isbn)+'-L.jpg?default=false'
+    try:
+        req=urllib.request.Request(url,headers={**HEADERS,'Range':'bytes=0-1023'})
+        with urllib.request.urlopen(req,timeout=12) as response:
+            kind=response.headers.get('Content-Type','')
+            if response.status in (200,206) and kind.startswith('image/'):
+                return url
+    except Exception:pass
+    return ''
+
+def bnf_cover(isbn):
+    """Service de couvertures BnF par ISBN; n'utiliser que si la réponse est une image."""
+    if not isbn:return ''
+    # L'URL ci-dessous est un candidat, pas une image garantie.
+    url='https://couverture.bnf.fr/api/couverture?isbn='+urllib.parse.quote(isbn)+'&format=jpeg'
+    try:
+        req=urllib.request.Request(url,headers={**HEADERS,'Range':'bytes=0-1023'})
+        with urllib.request.urlopen(req,timeout=12) as response:
+            kind=response.headers.get('Content-Type','')
+            if response.status in (200,206) and kind.startswith('image/'):
+                return url
+    except Exception:pass
+    return ''
+
 def collect():
     found={}
     for start in range(1,402,100):
@@ -73,8 +100,8 @@ def main():
     for b in books:
         old=previous.get(b['id'],{})
         if old.get('isbn')==b['isbn'] and old.get('cover'):b['cover']=old['cover']
-        elif b['isbn'] and requests<40:
-            b['cover']=cover_by_isbn(b['isbn'])
+        elif b['isbn'] and requests<100:
+            b['cover']=cover_by_isbn(b['isbn']) or openlibrary_cover(b['isbn'])
             requests+=1
             time.sleep(.2)
     # Éviter les doublons exacts d'ISBN, conserver les éditions sans ISBN.
