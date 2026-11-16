@@ -86,7 +86,7 @@ def crosscheck(book, isbn):
             continue
     return sources
 
-allowed = {"Fnac", "Cultura", "BDfugue", "E.Leclerc", "Amazon"}
+allowed = {"Fnac", "Cultura", "BDfugue", "Excalibur Comics", "E.Leclerc", "Amazon"}
 for book in books:
     isbn = re.sub(r"[^0-9X]", "", book.get("isbn") or "")
     entry = {"isbn": isbn, "cover": None, "offers": [], "bibliography": {"status": "non vérifié", "sources": []}}
