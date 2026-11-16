@@ -53,30 +53,30 @@ def openlibrary_cover(isbn):
 def collect():
     found={}
     for query_expression in ('bib.title all "deadpool"','bib.subject all "deadpool"'):
-      for start in range(1,1002,100):
-        query=urllib.parse.urlencode({'version':'1.2','operation':'searchRetrieve','query':query_expression,'recordSchema':'dublincore','startRecord':start,'maximumRecords':100})
-          root=ET.fromstring(fetch('https://catalogue.bnf.fr/api/SRU?'+query))
-          records=root.findall('.//srw:record',NS)
-          if not records:break
-          for record in records:
-              titles=strings(record,'title')
-              if not titles:continue
-            subjects=' '.join(strings(record,'subject')).lower()
-            if 'deadpool' not in titles[0].lower() and 'deadpool' not in subjects:continue
-              types=' '.join(strings(record,'type')).lower()
-              if types and not any(x in types for x in ('texte','text','livre','book','imprim')):continue
-              identifiers=strings(record,'identifier')
-              ark=next((x for x in identifiers if 'ark:/12148/' in x),'')
-              match=re.search(r'ark:/12148/([a-zA-Z0-9]+)',ark)
-              if not match:continue
-              token=match.group(1)
-              isbn=isbn13(identifiers)
-              years=' '.join(strings(record,'date'))
-              matchyear=re.search(r'\b(?:19|20)\d{2}\b',years)
-              publisher='; '.join(strings(record,'publisher'))
-              found[token]={'appearance_basis':'titre' if 'deadpool' in titles[0].lower() else 'sujet BnF','id':'bnf-'+token,'title':titles[0],'publisher':publisher,'collection':'','year':int(matchyear.group()) if matchyear else None,'isbn':isbn,'cover':'','source':'https://catalogue.bnf.fr/ark:/12148/'+token}
-          if len(records)<100:break
-          time.sleep(.5)
+        for start in range(1,1002,100):
+            query=urllib.parse.urlencode({'version':'1.2','operation':'searchRetrieve','query':query_expression,'recordSchema':'dublincore','startRecord':start,'maximumRecords':100})
+            root=ET.fromstring(fetch('https://catalogue.bnf.fr/api/SRU?'+query))
+            records=root.findall('.//srw:record',NS)
+            if not records:break
+            for record in records:
+                titles=strings(record,'title')
+                if not titles:continue
+                subjects=' '.join(strings(record,'subject')).lower()
+                if 'deadpool' not in titles[0].lower() and 'deadpool' not in subjects:continue
+                types=' '.join(strings(record,'type')).lower()
+                if types and not any(x in types for x in ('texte','text','livre','book','imprim')):continue
+                identifiers=strings(record,'identifier')
+                ark=next((x for x in identifiers if 'ark:/12148/' in x),'')
+                match=re.search(r'ark:/12148/([a-zA-Z0-9]+)',ark)
+                if not match:continue
+                token=match.group(1)
+                isbn=isbn13(identifiers)
+                years=' '.join(strings(record,'date'))
+                matchyear=re.search(r'\b(?:19|20)\d{2}\b',years)
+                publisher='; '.join(strings(record,'publisher'))
+                found[token]={'appearance_basis':'titre' if 'deadpool' in titles[0].lower() else 'sujet BnF','id':'bnf-'+token,'title':titles[0],'publisher':publisher,'collection':'','year':int(matchyear.group()) if matchyear else None,'isbn':isbn,'cover':'','source':'https://catalogue.bnf.fr/ark:/12148/'+token}
+            if len(records)<100:break
+            time.sleep(.5)
     return list(found.values())
 def main():
     previous={}
