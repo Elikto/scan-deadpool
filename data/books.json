@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:22:43.207316+00:00",
+  "updated_at": "2026-11-16T21:34:55.664698+00:00",
   "books": [
     {
       "id": "bnf-cb45861945g",
@@ -178,7 +178,7 @@
       "collection": "",
       "year": 2014,
       "isbn": "9782809442021",
-      "cover": "",
+      "cover": "https://covers.openlibrary.org/b/isbn/9782809442021-L.jpg?default=false",
       "source": "https://catalogue.bnf.fr/ark:/12148/cb44207521d"
     },
     {
@@ -188,7 +188,7 @@
       "collection": "",
       "year": 2014,
       "isbn": "9782809440027",
-      "cover": "",
+      "cover": "https://covers.openlibrary.org/b/isbn/9782809440027-L.jpg?default=false",
       "source": "https://catalogue.bnf.fr/ark:/12148/cb438697985"
     },
     {
@@ -948,7 +948,7 @@
       "collection": "",
       "year": 2021,
       "isbn": "9782809496864",
-      "cover": "",
+      "cover": "https://covers.openlibrary.org/b/isbn/9782809496864-L.jpg?default=false",
       "source": "https://catalogue.bnf.fr/ark:/12148/cb46820735p"
     },
     {
@@ -1058,7 +1058,7 @@
       "collection": "",
       "year": 2022,
       "isbn": "9791039106429",
-      "cover": "",
+      "cover": "https://covers.openlibrary.org/b/isbn/9791039106429-L.jpg?default=false",
       "source": "https://catalogue.bnf.fr/ark:/12148/cb47030083k"
     },
     {
