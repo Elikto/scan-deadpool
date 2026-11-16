@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/sync.py'
       - 'scripts/bedetheque_covers.py'
+      - 'scripts/bnf_covers.py'
       - 'data/bedetheque-matches.json'
       - '.github/workflows/catalog.yml'
   schedule:
@@ -22,6 +23,8 @@ jobs:
           python-version: '3.12'
       - name: Vérifier et synchroniser les notices
         run: python scripts/sync.py
+      - name: Récupérer les couvertures officielles BnF
+        run: python scripts/bnf_covers.py
       - name: Associer les couvertures Bédéthèque vérifiées
         run: python scripts/bedetheque_covers.py
       - name: Enregistrer les données si elles ont changé
